@@ -13,11 +13,6 @@
             "homepage": "https://github.com/FUNKDUK",
             "email": "studio@funkd.uk",
             "role": "Developer"
-        },
-        {
-            "name": "Winter CMS Maintainers",
-            "homepage": "https://wintercms.com",
-            "role": "Maintainer"
         }
     ],
     "support": {
